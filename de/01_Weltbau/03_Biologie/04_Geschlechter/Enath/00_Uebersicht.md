@@ -2,7 +2,7 @@
 translation_key: weltbau.biologie.geschlechter.enath
 ---
 
-# ![](icon:gender/enath_gender "icon-inline|width=1.25rem") Enath
+# Enath
 
 ![](icon:gender/enath_gender "icon-inline|width=1.25rem") Die Enath sind eines der fünf Geschlechter der Enari und machen etwa 9 % der Gesamtpopulation aus. Sie gelten als seltene, hochspezialisierte Individuen, deren biologische Hauptfunktion in der Bereitstellung komplexer regulatorischer und strukturierender Proteine liegt, die für die stabile Entwicklung der Embryonen notwendig sind.
 
